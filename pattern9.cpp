@@ -34,7 +34,7 @@ int main()
         int count = i;
         while (j <= i)
         {
-            cout << count;
+            cout << count << " ";
             count = count - 1;
             j++;
         }
